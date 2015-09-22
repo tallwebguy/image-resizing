@@ -1,0 +1,13 @@
+{
+  "name": "image-resizer",
+  "description": "Express, lwip, blitz. Resizes images.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tallwebguy/image-resizing.git"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "lwip": "0.0.7"
+  }
+}
